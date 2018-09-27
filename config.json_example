@@ -1,57 +1,15 @@
 {
 	"workerport":2349,
 	"httpport":2350,
-	"default":"nh",
+	"default":"etnx",
 	"pools":
 	{
 		"userA":[
 			{
-				"symbol":"itns",
-				"name":"izlkfjdflkjgdlfkgjdflkgjdlkfgj",
-				"host":"45.32.171.89",
-				"port":"9999",
-				"url":"http://dummypool.com",
-				"api":"http://a.x.y.z/api"
-			},{
-				"symbol":"xun",
-				"name":"Xunhfkjfhlkdfjglkdfjgdlkfgjdlkfgjdflkg",
-				"host":"78.47.92.206",
-				"port":"9999",
-				"url":"http://dummypool.com",
-				"api":"http://a.x.y.z/api"
-			},{
-				"symbol":"etn",
-				"name":"etndfglkdjfgldkjfgkldjfglkjfg",
-				"host":"pool.etn.spacepools.org",
-				"port":"7777",
-				"url":"http://dummypool.com",
-				"api":"http://a.x.y.z/api"
-			},{
-				"symbol":"msr",
-				"name":"5q9dflkjdflgkdjfgdfgdfgdfgdfg",
-				"host":"masari.superpools.net",
-				"port":"8889",
-				"url":"http://dummypool.com",
-				"api":"http://a.x.y.z/api"
-			},{
-				"symbol":"nh",
-				"name":"38efCkzYVUrojQAjuBAQHpudVpKKuaqxrZ.pr",
-				"host":"cryptonight.eu.nicehash.com",
-				"port":"3355"
-			}
-		],"userB":[
-			{
-				"symbol":"itns",
-				"name":"izlkfjdflkjgdlfkgjdflkgjdlkfgj",
-				"host":"45.32.171.89",
-				"port":"9999",
-				"url":"http://dummypool.com",
-				"api":"http://a.x.y.z/api"
-			},{
-				"symbol":"nh",
-				"name":"38efCkzYVUrojQAjuBAQHpudVpKKuaqxrZ.pr",
-				"host":"cryptonight.eu.nicehash.com",
-				"port":"3355"
+				"symbol":"etnx",
+				"name":"etnkHfFuanNeTe3q9dux4d9cRiLkUR4hDffvhfTp6nbhEJ5R8TY4vdyZjT4BtWxnvSJ5nfD64eCAQfKMJHSym2dj8PQqeiKmBM",
+				"host":"uspool.electronero.org",
+				"port":"1122"
 			}
 		]
 	}
